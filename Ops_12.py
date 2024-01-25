@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Script Name: Add Ping Sweep Mode to Nmap Scanner using Scapy
-# Author: David Renteria
+# Author: Tommy Taylor
 # Purpose: Ping Sweep & Scan network using Scapy
 
 # import necessary modules
