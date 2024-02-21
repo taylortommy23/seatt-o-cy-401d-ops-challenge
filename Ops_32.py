@@ -12,7 +12,7 @@ def calculate_md5(filepath):
     return md5_hash.hexdigest()
 
 def main():
-    file_path = "/path/to/your/file.txt"  # Replace this with the actual file path
+    file_path = "/path/to/your/file.txt"  
     file_name = os.path.basename(file_path)
     file_size = os.path.getsize(file_path)
     md5_hash = calculate_md5(file_path)
@@ -27,4 +27,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# had to resort to Chat GPT to get my script to run right
+# Class Demo
+# Chat Gpt Assisted 
